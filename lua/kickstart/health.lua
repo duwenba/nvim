@@ -1,7 +1,7 @@
 --[[
 --
--- This file is not required for your own configuration,
--- but helps people determine if their system is setup correctly.
+-- 这个文件对你自己的配置不是必须的，
+-- 但可以帮助人们判断他们的系统是否正确设置。
 --
 --]]
 

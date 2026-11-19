@@ -39,6 +39,7 @@ require 'custom.config.pack'
 
 require 'custom.plugins.ui'
 require 'custom.plugins.telescope'
+require 'custom.plugins.chezmoi'
 require 'custom.plugins.lsp'
 require 'custom.plugins.format'
 require 'custom.plugins.completion'
